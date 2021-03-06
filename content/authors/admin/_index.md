@@ -42,6 +42,6 @@ user_groups:
 - Visitors
 ---
 
-I am a health sciences researcher and I hold a master in systems biology and working on my PhD in epidemiology and statistical genetics . My career has included stints as biostatistician, data modeler, methodologist, clinical data analysis, building machine learning models and public health analyst. I have taught research data management in R, biostatistics, and epidemiology.
+I am a health sciences researcher and I hold a master in systems biology and working as a research assistant in epidemiology and statistical genetics . My career has included stints as biostatistician, data modeler, methodologist, clinical data analysis, building machine learning models and public health analyst. I have taught research data management in R, biostatistics, and epidemiology.
 
 I have superior technical expertise in several modeling approaches and analytical tools, including but not limited to: regression analysis (linear regression, logistic regression, multinomial logistic regression, poission regression, zero-inflated count models, negative binomial regression); survival analysis including Kaplan-Meier analysis and Cox proportional regression; time series analysis; analysis of variance (ANOVA); principal components analysis. I am also now working on polygenic risk scores (PRS) using different methods plink, prsice, lassosum, .. etc.
