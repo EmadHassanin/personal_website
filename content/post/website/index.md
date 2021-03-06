@@ -98,12 +98,12 @@ git remote add origin https://github.com/username/my_website
 git push -u origin master</code></pre>
 <ol start="9" style="list-style-type: decimal">
 <li><p>
-You can see my blogdown code repo <a href="https://github.com/CaitlinCasar/caitlin" target="_blank">here</a>. Now you’re ready to host your site online! I host my site for free on <a href="https://pages.github.com/" target="_blank">Github Pages</a>. This generates a domain in the format ‘your_github_user_name.github.io’. It’s affordable and easy to mask this domain with a custom domain of your choice. I bought my domain on Google domains for an annual fee of $12. This is totally optional - if this interests you, refer to my guide at the end of this post under ‘Using a custom domain’!
+You can see my blogdown code repo <a href="https://github.com/EmadHassanin/" target="_blank">here</a>. Now you’re ready to host your site online! I host my site for free on <a href="https://pages.github.com/" target="_blank">Github Pages</a>. This generates a domain in the format ‘your_github_user_name.github.io’. It’s affordable and easy to mask this domain with a custom domain of your choice. I bought my domain on Google domains for an annual fee of $12. This is totally optional - if this interests you, refer to my guide at the end of this post under ‘Using a custom domain’!
 </p>
 <ul>
 <li>
 <p>
-First you’ll need to create a new repo named <em>username.github.io</em>. Don’t initialize it with a README file. To create my site, I created a repo using my Github user name ‘caitlincasar’ on Github called caitlincasar.github.io. You can see this repo <a href="https://github.com/https://github.com/CaitlinCasar/CaitlinCasar.github.io" target="_blank">here</a>.
+First you’ll need to create a new repo named <em>username.github.io</em>. Don’t initialize it with a README file. To create my site, I created a repo using my Github user name ‘emadhassanin’ on Github called emadhassanin.github.io. You can see this repo <a href="https://github.com/https://github.com/EmadHassanin/emadhassanin.github.io" target="_blank">here</a>.
 </p>
 </li>
 <img class="post" src="images/git-2.png">
@@ -195,7 +195,7 @@ image:
 projects: []
 ---
   
-Hello! This is my *first* blog post! I am **very** excited to share my post with you. I learned how to make this post [here](https://caitlincasar.com/post/blogdown/). 
+Hello! This is my *first* blog post! I am **very** excited to share my post with you. I learned how to make this post [here]https://github.com/EmadHassanin/personal_website). 
 
 ## Subheader
 
