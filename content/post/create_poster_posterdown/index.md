@@ -1,5 +1,5 @@
 ---
-title: "Create your own site with blogdown in R"
+title: "Create a poster with posterdown in R"
 author: "Emad"
 date: 2020-12-29
 output: html_document
